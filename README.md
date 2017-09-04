@@ -4,7 +4,8 @@ Android open project
 Android开源项目，forked from linmomo/Android_open_project,在此基础上丰富扩展。
 
 ## **系统控件**
-
+*一个集成控件开源库
+   QMUI （https://github.com/QMUI/QMUI_Android）
 * TextView
     * [一个功能强大的TextView，可以满足日常大部分布局方式](https://github.com/lygttpod/SuperTextView)
     * [Facebook 开源文本布局库](https://github.com/facebookincubator/TextLayoutBuilder)
